@@ -39,7 +39,7 @@ h4 {
   position: relative; width: 99%; margin: auto; padding: 5px;
 }
 .thumbnail {
-  max-width: 30%; padding-left: 10px; padding-right: 10px;
+  max-height: 90%; max-width: 30%; padding-left: 1%; padding-right: 1%;
 }
 .bot {
   padding: 10px;
